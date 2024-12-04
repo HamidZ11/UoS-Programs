@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=App
+comment1.params=inputTitle\ inputObjective\ penceCost\ inputController
+comment1.target=App(java.lang.String,\ java.lang.String,\ int,\ Controller)
+comment10.params=
+comment10.target=void\ printReport()
+comment11.params=
+comment11.target=int\ calculateEarnings()
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=titleInput
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getObjective()
+comment5.params=objectiveInput
+comment5.target=void\ setObjective(java.lang.String)
+comment6.params=
+comment6.target=int\ getCostInPence()
+comment7.params=penceCost
+comment7.target=void\ setCostInPence(int)
+comment8.params=
+comment8.target=void\ download()
+comment9.params=stepCount\ name
+comment9.target=void\ checkStepCount(int,\ java.lang.String)
+numComments=12
