@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Store
+comment1.params=storeNameInput
+comment1.target=Store(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getStoreName()
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=member
+comment4.target=void\ memberRegister1(Member)
+comment5.params=name\ id\ pinNumber
+comment5.target=void\ memberRegister2(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment6.params=payment\ member
+comment6.target=void\ checkout(int,\ Member)
+numComments=7
